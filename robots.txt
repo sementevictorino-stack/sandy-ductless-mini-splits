@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://sandy-ductless.netlify.app/sitemap.xml
+Sitemap: https://sandyutductlessminisplits.netlify.app/sitemap.xml
 
 # Allow all search engines to crawl the site
 User-agent: Googlebot
